@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bagsys/static/css/main.df3b6d63.css",
-    "main.js": "/bagsys/static/js/main.7f353af9.js",
-    "static/js/542.90a1734f.chunk.js": "/bagsys/static/js/542.90a1734f.chunk.js",
-    "static/js/660.c897f074.chunk.js": "/bagsys/static/js/660.c897f074.chunk.js",
-    "static/js/270.73951f11.chunk.js": "/bagsys/static/js/270.73951f11.chunk.js",
-    "static/js/577.2df84dc9.chunk.js": "/bagsys/static/js/577.2df84dc9.chunk.js",
-    "static/js/411.dce744d4.chunk.js": "/bagsys/static/js/411.dce744d4.chunk.js",
-    "static/js/354.83f95dfe.chunk.js": "/bagsys/static/js/354.83f95dfe.chunk.js",
-    "static/js/475.537585f1.chunk.js": "/bagsys/static/js/475.537585f1.chunk.js",
-    "static/js/630.8775154c.chunk.js": "/bagsys/static/js/630.8775154c.chunk.js",
-    "static/js/317.f562a42a.chunk.js": "/bagsys/static/js/317.f562a42a.chunk.js",
+    "main.js": "/bagsys/static/js/main.65110b94.js",
+    "static/js/542.49561b95.chunk.js": "/bagsys/static/js/542.49561b95.chunk.js",
+    "static/js/660.8458b01d.chunk.js": "/bagsys/static/js/660.8458b01d.chunk.js",
+    "static/js/270.c034c81a.chunk.js": "/bagsys/static/js/270.c034c81a.chunk.js",
+    "static/js/577.adf368e4.chunk.js": "/bagsys/static/js/577.adf368e4.chunk.js",
+    "static/js/411.c040fc7d.chunk.js": "/bagsys/static/js/411.c040fc7d.chunk.js",
+    "static/js/354.5f43dc1b.chunk.js": "/bagsys/static/js/354.5f43dc1b.chunk.js",
+    "static/js/475.b43e9574.chunk.js": "/bagsys/static/js/475.b43e9574.chunk.js",
+    "static/js/630.975275d4.chunk.js": "/bagsys/static/js/630.975275d4.chunk.js",
+    "static/js/317.c271cb1d.chunk.js": "/bagsys/static/js/317.c271cb1d.chunk.js",
     "static/media/user-round.svg": "/bagsys/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
     "index.html": "/bagsys/index.html",
     "static/media/social-google.svg": "/bagsys/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.df3b6d63.css",
-    "static/js/main.7f353af9.js"
+    "static/js/main.65110b94.js"
   ]
 }
