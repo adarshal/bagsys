@@ -1,6 +1,6 @@
 {
-  "name": "berry-free-material-react-cra",
-  "version": "3.4.2",
+  "name": "baggage",
+  "version": "0.1.0",
   "private": true,
   "homepage": "https://adarshal.github.io/bagsys",
   "dependencies": {
